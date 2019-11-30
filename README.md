@@ -1,5 +1,4 @@
-# MIPS32
-## Environment
-###   Python3
-## Run : 
-###   <code>python main.py</code>
+# Environment
+## Python3
+# How to run
+<code>python main.py</code>
