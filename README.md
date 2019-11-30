@@ -1,5 +1,5 @@
 # Environment : Python3
-# How to run
+# How to run :
 <code>python main.py</code>
-# Description
+# Description :
 ## in description foler
