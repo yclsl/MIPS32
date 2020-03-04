@@ -1894,4 +1894,4 @@ def generate_simulate(src_path, dst_path):
 
 
 if __name__ == '__main__':
-    generate_simulate('./input/sample2.txt', './output/simulation2.txt')
+    generate_simulate('./input/sample.txt', './output/simulation.txt')

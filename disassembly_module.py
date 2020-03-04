@@ -879,9 +879,9 @@ def generate_disassembly(src_path, dst_path):
 
 
 if __name__ == '__main__':
-    disassembly_content = disassemble('./input/sample2.txt')
-    simulation_content = simulate('./input/sample2.txt')
-    save_lst_to_file(disassembly_content, './output/disassembly2.txt')
+    disassembly_content = disassemble('./input/sample.txt')
+    simulation_content = simulate('./input/sample.txt')
+    save_lst_to_file(disassembly_content, './output/disassembly.txt')
 
-    save_lst_to_file(simulation_content, './output/simulation2.txt')
+    save_lst_to_file(simulation_content, './output/simulation.txt')
     print("finished successfully")
